@@ -1,15 +1,12 @@
 body {
     background-color: powderblue;
   }
-  
 h1 {
     color: #999;
 }
-
 p {
-    color: white;
+    color: black;
 }
-
 .button-style {
     color: orange;
     border-radius: 30px;
